@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserInformation>
+  <Users>
+    <Name>admin</Name>
+    <password>admin</password>
+    <phone>01521307471</phone>
+    <email>admin@gmail.com</email>
+  </Users>
+  <Users>
+    <Name>manik</Name>
+    <password>manik114</password>
+    <phone>01782301476</phone>
+    <email>manik@gmail.com</email>
+  </Users>
+  <Users>
+    <Name>zabir</Name>
+    <password>zabir</password>
+    <phone>01924667788</phone>
+    <email>Zabir.kuetcse@gmail.com</email>
+  </Users>
+  <Users>
+    <Name>abir</Name>
+    <password>abir</password>
+    <phone>01521307471</phone>
+    <email>abir@gmail.com</email>
+  </Users>
+  <Users>
+    <Name>Nazu</Name>
+    <password>1234</password>
+    <phone>017777777777</phone>
+    <email>nazu@gmail.com</email>
+  </Users>
+</UserInformation>

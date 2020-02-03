@@ -1,0 +1,124 @@
+/*common css*/
+.line{
+	width: 70px;
+	height:2px;
+	background: #f1d37d;
+	margin-right: auto;
+	margin-left:auto;
+	margin-top: 2%;
+}
+.color-me-yellow{
+	color:#f1d37d;;
+}
+/*end common*/
+#nav-top{
+	border-radius: 0;
+	margin-bottom: 0;
+}
+.content-padding{
+	padding:60px 50px;
+}
+.top-main-div{
+	padding: 140px 35px 160px;
+	position: relative;
+}
+.main-heading{
+	color: #fff;
+	position: relative;
+}
+.overlay{
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.contact-us{
+	background: #f5f5f5;
+}
+.contact-us input, .contact-us textarea{
+	border-radius: 0;
+	border: 1px solid #000;
+}
+.contact-us button{
+	border-radius: 0;
+	border: 1px solid #000;
+	background: #fff;
+}
+.contact-us button:hover{
+	background: #000;
+	color:#fff;
+}
+.footer{
+	background-color: #444;
+	padding: 40px;
+	color: #fff;
+}
+.footer-inner p{
+	display: inline;
+}
+.footer-inner a{
+	color: #fff;
+	padding:10px;
+}
+.section-heading{
+	text-transform: uppercase;
+	margin-bottom: 2%;
+}
+.thumbnail{
+	border-radius: 0;
+	position: relative;
+}
+.overlay-effect{
+	position: absolute;
+	background: #fff;
+	top:0;
+	bottom:0;
+	left:0;
+	width:0;
+	opacity: 0.4;
+	transition: 0.5s;
+	overflow: hidden;
+}
+.thumbnail:hover .overlay-effect{
+    width:100%;
+}
+
+.icon-portfolio{
+	position: absolute;
+	top:45%;
+	left:45%;
+	background: blue;
+	z-index: 1;
+	color: #fff;
+	padding:10px 15px;
+}
+.portfolio{
+	background: #fff;
+	color:#444;
+}
+.mix-buttons{
+	margin-bottom: 2%;
+}
+.control{
+	color: #000;
+	border-radius: 0;
+}
+
+.services{
+	background: #f5f5f5;
+}
+.service-box{
+	background: #fff;
+	padding:70px;
+}
+.service-box i{
+	color: #f1d37d;
+}
+.service-box h3{
+	font-weight: bold;
+}
+.service-box p{
+	line-height: 2;
+}
